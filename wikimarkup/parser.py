@@ -44,7 +44,7 @@ _htmlpairs = ( # Tags that must be closed
     u'h2', u'h3', u'h4', u'h5', u'h6', u'cite', u'code', u'em', u's',
     u'strike', u'strong', u'tt', u'var', u'div', u'center',
     u'blockquote', u'ol', u'ul', u'dl', u'table', u'caption', u'pre',
-    u'ruby', u'rt' , u'rb' , u'rp', u'p', u'span', u'u',
+    u'ruby', u'rt' , u'rb' , u'rp', u'p', u'span', u'u', u'a',
 )
 _htmlsingle = (
     u'br', u'hr', u'li', u'dt', u'dd', u'img',
